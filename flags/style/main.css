@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flag-1 {
+  margin-top: 40px;
+  margin-left: 40px;  
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: green;
+  background-image: linear-gradient(to bottom, 
+  white 0px,
+  white 65px,
+  blue 65px,
+  blue 130px,
+  red 130px,
+  red 200px );
+
+}
+
+/* ==================== */
+
+.flag-2 {
+  margin-top: 40px;
+  margin-left: 40px;  
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: green;
+  background-image: linear-gradient(to bottom, 
+  black 0px,
+  black 65px,
+  red 65px,
+  red 130px,
+  yellow 130px,
+  yellow 200px );
+}
+
+.flag-2 h2 {
+  color: white;
+}
+
+/* =================== */
+
+
+.flag-3 {
+  margin-top: 40px;
+  margin-left: 40px;  
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: green;
+  background-image: linear-gradient(to right, 
+  green 0px,
+  green 100px,
+  whitesmoke 100px,
+  whitesmoke 200px,
+  red 200px,
+  red 300px );
+}
+
+/* ==================== */
+
+
+
+.flag-4 {
+  margin-top: 40px;
+  margin-left: 40px;  
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: green;
+  background-image: linear-gradient(to right, 
+  blue 0px,
+  blue 100px,
+  whitesmoke 100px,
+  whitesmoke 200px,
+  red 200px,
+  red 300px );
+}
+
+/* =================== */
+
+
+.flag-5 {
+  margin-top: 40px;
+  margin-left: 40px;  
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: green;
+  background-image: linear-gradient(to bottom, 
+  green 0px,
+  green 70px,
+  whitesmoke 70px,
+  whitesmoke 130px,
+  red 130px,
+  red 200px );
+
+  /* background-image: url(../img/Tajikistan_crown_and_stars.svg); */
+
+}
+
+.flag-5 img {
+  margin-top: 75px;
+  margin-left: 120px;
+}
+
